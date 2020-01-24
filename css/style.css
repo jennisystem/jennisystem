@@ -37698,3 +37698,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .fl-bigmug-line-zoom60:before {
 	content: "\e0db"
 }
+
+#lg-download {
+	display: none !important;
+}
